@@ -27,3 +27,5 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+![商城首页](https://github.com/Jack-Nicholas/Mobile-integrator-mall/blob/master/public/ExampleImage/1.png)

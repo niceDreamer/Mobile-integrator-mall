@@ -1,19 +1,19 @@
 ##移动积分商城
 
 ######示列：
-![商城首页](https://github.com/shen/SwiftNotes/blob/master/image/1_gaitubao_379x673.png)
-![商品分类](https://github.com/shen/SwiftNotes/blob/master/image/2_gaitubao_379x673.png)
-![购物车](https://github.com/shen/SwiftNotes/blob/master/image/3_gaitubao_379x673.png)
-![填写订单](https://github.com/shen/SwiftNotes/blob/master/image/4_gaitubao_379x673.png)
-![商品详情](https://github.com/shen/SwiftNotes/blob/master/image/5_gaitubao_379x673.png)
-![商品规格](https://github.com/shen/SwiftNotes/blob/master/image/6_gaitubao_379x673.png)
-![商品列表](https://github.com/shen/SwiftNotes/blob/master/image/7_gaitubao_379x673.png)
-![话费充值](https://github.com/shen/SwiftNotes/blob/master/image/8_gaitubao_379x673.png)
-![虚拟商品](https://github.com/shen/SwiftNotes/blob/master/image/9_gaitubao_379x673.png)
-![个人中心](https://github.com/shen/SwiftNotes/blob/master/image/10_gaitubao_379x673.png)
-![订单列表](https://github.com/shen/SwiftNotes/blob/master/image/11_gaitubao_379x673.png)
-![订单详情](https://github.com/shen/SwiftNotes/blob/master/image/12_gaitubao_379x673.png)
-![收货地址](https://github.com/shen/SwiftNotes/blob/master/image/13_gaitubao_379x673.png)
+![商城首页](https://github.com/Jack-Nicholas/Mobile-integrator-mall/blob/master/public/ExampleImage/1_gaitubao_379x673.png)
+![商品分类](https://github.com/Jack-Nicholas/Mobile-integrator-mall/blob/master/public/ExampleImage/2_gaitubao_379x673.png)
+![购物车](https://github.com/Jack-Nicholas/Mobile-integrator-mall/blob/master/public/ExampleImage/3_gaitubao_379x673.png)
+![填写订单](https://github.com/Jack-Nicholas/Mobile-integrator-mall/blob/master/public/ExampleImage/4_gaitubao_379x673.png)
+![商品详情](https://github.com/Jack-Nicholas/Mobile-integrator-mall/blob/master/public/ExampleImage/5_gaitubao_379x673.png)
+![商品规格](https://github.com/Jack-Nicholas/Mobile-integrator-mall/blob/master/public/ExampleImage/6_gaitubao_379x673.png)
+![商品列表](https://github.com/Jack-Nicholas/Mobile-integrator-mall/blob/master/public/ExampleImage/7_gaitubao_379x673.png)
+![话费充值](https://github.com/Jack-Nicholas/Mobile-integrator-mall/blob/master/public/ExampleImage/8_gaitubao_379x673.png)
+![虚拟商品](https://github.com/Jack-Nicholas/Mobile-integrator-mall/blob/master/public/ExampleImage/9_gaitubao_379x673.png)
+![个人中心](https://github.com/Jack-Nicholas/Mobile-integrator-mall/blob/master/public/ExampleImage/10_gaitubao_379x673.png)
+![订单列表](https://github.com/Jack-Nicholas/Mobile-integrator-mall/blob/master/public/ExampleImage/11_gaitubao_379x673.png)
+![订单详情](https://github.com/Jack-Nicholas/Mobile-integrator-mall/blob/master/public/ExampleImage/12_gaitubao_379x673.png)
+![收货地址](https://github.com/Jack-Nicholas/Mobile-integrator-mall/blob/master/public/ExampleImage/13_gaitubao_379x673.png)
 
 ##商城有哪些功能？
 
@@ -40,7 +40,7 @@
 
 * 主要用vue + vuex + vue-router + axios + vant写的
 * 第三方插件：better-scroll，js-cookie
-* 组件：骨架屏，头部菜单(判断显示标题还是搜索框),请求loading，两套通用活动页模板，包括vant提供的一些常用组件
+* 组件：骨架屏，头部菜单(判断显示标题还是搜索框)，请求loading，两套通用活动页模板，包括vant提供的一些常用组件
 * 主要业务流程跟电商一样只是依附于平台进行积分支付，首页进来通过二级域名配置参数调用不同平台商品信息
 
 ##有问题反馈
